@@ -1,0 +1,54 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nombre": "Limpieza",
+            "imagen": "https://cdn-icons-png.flaticon.com/512/5994/5994279.png"
+        },
+        {
+            "id": 2,
+            "nombre": "Tecnología",
+            "imagen": "https://cdn-icons-png.flaticon.com/256/3715/3715301.png"
+        },
+        {
+            "id": 3,
+            "nombre": "Salud",
+            "imagen": "https://cdn-icons-png.flaticon.com/512/918/918330.png"
+        }
+    ],
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Set de paños de microfibra",
+            "precio": "10.90",
+            "stock": 32,
+            "imagen": "",
+            "categoria": {
+                "id": 1,
+                "nombre": "Limpieza",
+                "imagen": "https://cdn-icons-png.flaticon.com/512/5994/5994279.png"
+            }
+        },
+        {
+            "id": 2,
+            "nombre": "Televisor de 80 pulgadas",
+            "precio": "5300.90",
+            "stock": 5,
+            "imagen": ""
+        },
+        {
+            "id": 3,
+            "nombre": "Caja de paracetamol",
+            "precio": "5.90",
+            "stock": 25,
+            "imagen": ""
+        },
+        {
+            "id": 4,
+            "nombre": "Detergente de 80g",
+            "precio": "12.90",
+            "stock": 45,
+            "imagen": ""
+        }
+    ]
+}
